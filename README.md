@@ -296,127 +296,126 @@ Unsupervised Transfer of Sparse Features Encoding</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(160).pdf" style="text-decoration:none;">Smoothing Adversarial Domain Attack and p-Memory Reconsolidation for Cross-Domain Person Re-Identification</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(161).pdf" style="text-decoration:none;">TCTS: A Task-Consistent Two-stage Framework for Person Search</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(162).pdf" style="text-decoration:none;">Splinter: Practical Private Queries on Public Data</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(163).pdf" style="text-decoration:none;">The Science of Software and System Design </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(162).pdf" style="text-decoration:none;">Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(163).pdf" style="text-decoration:none;">Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(164).pdf" style="text-decoration:none;">A Measurement Study of Available Bandwidth Estimation Tools</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(164).pdf" style="text-decoration:none;">Unsupervised Person Re-identification via Multi-label Classification</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(165).pdf" style="text-decoration:none;">Designing multicore scalable filesystems with durability and crash consistency</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(165).pdf" style="text-decoration:none;">Vehicle Re-identification in Aerial Imagery: Dataset and Approach</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(166).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(166).pdf" style="text-decoration:none;">Person Re-identification by Video Ranking</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(167).pdf" style="text-decoration:none;">SSL Splitting and Barnraising: Cooperative Caching with Authenticity Guarantees</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(167).pdf" style="text-decoration:none;">Person Transfer GAN to Bridge Domain Gap for Person Re-Identification</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(168).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(169).pdf" style="text-decoration:none;">SSL Splitting</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(170).pdf" style="text-decoration:none;">Structured Streams: a New Transport Abstraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(171).pdf" style="text-decoration:none;">Towards Optimization-Safe Systems:
-Analyzing the Impact of Undefined Behavior</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(172).pdf" style="text-decoration:none;">Stadium: A Distributed Metadata-Private
-Messaging System</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(173).pdf" style="text-decoration:none;">Certifying Checksum-Based Logging in the
-RapidFSCQ Crash-Safe Filesystem</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(168).pdf" style="text-decoration:none;">MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(169).pdf" style="text-decoration:none;">Distilled Person Re-identification: Towards a More Scalable System</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(170).pdf" style="text-decoration:none;">Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(171).pdf" style="text-decoration:none;">RGB-Infrared Cross-Modality Person Re-Identification</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(172).pdf" style="text-decoration:none;">Unsupervised Graph Association for Person Re-identification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(173).pdf" style="text-decoration:none;">Unsupervised Person Re-Identification by Camera-Aware Similarity Consistency Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(174).pdf" style="text-decoration:none;">Flexible, Wide-Area Storage for Distributed Systems Using Semantic Cues</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(175).pdf" style="text-decoration:none;">Tolerating Malicious Device Drivers in Linux</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(176).pdf" style="text-decoration:none;">Sybil-resistant DHT routing</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(174).pdf" style="text-decoration:none;">Second-order Non-local Attention Networks for Person Re-identification</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(175).pdf" style="text-decoration:none;">Adversarial Open-World Person Re-Identiication</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(176).pdf" style="text-decoration:none;">Joint Detection and Identification Feature Learning for Person Search</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(177).pdf" style="text-decoration:none;">A Sybil-proof one-hop DHT</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(177).pdf" style="text-decoration:none;">RCAA: Relational Context-Aware Agents for Person Search</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(178).pdf" style="text-decoration:none;">Graduate Admissions at MIT and Comparison-based
-Rank Aggregation: A Case Study</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(179).pdf" style="text-decoration:none;">Automatic intrusion recovery with system-wide history</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(178).pdf" style="text-decoration:none;">Attention-Aware Compositional Network for Person Re-identification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(179).pdf" style="text-decoration:none;">Jointly Attentive Spatial-Temporal Pooling Networks for Video-based Person Re-Identification</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(180).pdf" style="text-decoration:none;">Events Can Make Sense</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(180).pdf" style="text-decoration:none;">Person Search by Multi-Scale Matching</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(181).pdf" style="text-decoration:none;">Optimizing unit test execution in large software programs using dependency analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(182).pdf" style="text-decoration:none;">Verifying an I/O-Concurrent File System </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(183).pdf" style="text-decoration:none;">Proactive replication for data durability</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(181).pdf" style="text-decoration:none;">Pose-Normalized Image Generation for Person Re-identification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(182).pdf" style="text-decoration:none;">Learning Context Graph for Person Search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(183).pdf" style="text-decoration:none;">Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(184).pdf" style="text-decoration:none;">Language and Compiler Support for Dynamic Code Generation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(184).pdf" style="text-decoration:none;">Patch-based Discriminative Feature Learning for Unsupervised Person Re-identification</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(185).pdf" style="text-decoration:none;">A Revised and Verified Proof of the Scalable Commutativity Rule</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(185).pdf" style="text-decoration:none;">Spatial-Temporal Graph Convolutional Network for Video-based Person Re-identification</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(186).pdf" style="text-decoration:none;">Processing Analytical Queries over Encrypted Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(186).pdf" style="text-decoration:none;">Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(187).pdf" style="text-decoration:none;">Skip Lists: A Probabilistic Alternative to
-Balanced Trees</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(187).pdf" style="text-decoration:none;">Person Re-identification with
+Deep Similarity-Guided Graph Neural Network</a></li>
                              
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(188).pdf" style="text-decoration:none;">Undefined Behavior: What Happened to My Code?</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(188).pdf" style="text-decoration:none;">Dynamic Label Graph Matching for Unsupervised Video Re-Identification</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(189).pdf" style="text-decoration:none;">UserRelative
-Names for Globally Connected Personal Devices</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(190).pdf" style="text-decoration:none;">Google's DeepWeb
-Crawl</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(189).pdf" style="text-decoration:none;">Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline)</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(190).pdf" style="text-decoration:none;">COCAS: A Large-Scale Clothes Changing Person Dataset for Re-identification</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(191).pdf" style="text-decoration:none;">Persistent Personal Names for Globally Connected Mobile Devices  </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(191).pdf" style="text-decoration:none;">Cross-view Asymmetric Metric Learning for Unsupervised Person Re-identification  </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(192).pdf" style="text-decoration:none;">Concurrent Data Structures</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(192).pdf" style="text-decoration:none;">Robust Person Re-identification by Modelling Feature Uncertainty</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(193).pdf" style="text-decoration:none;">Scalable Internet Routing
-on Topology-Independent Node Identities</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(193).pdf" style="text-decoration:none;">Unsupervised Person Re-identification by Soft Multilabel Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(194).pdf" style="text-decoration:none;">Unmanaged Internet Protocol: Taming the Edge Network Management Crisis</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(194).pdf" style="text-decoration:none;">Weakly Supervised Discriminative Feature Learning with State Information for Person Identification</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(195).pdf" style="text-decoration:none;">The A-Z of Programming Languages</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(195).pdf" style="text-decoration:none;">Part-Aligned Bilinear Representations for Person Re-identification</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(196).pdf" style="text-decoration:none;">UsenetDHT: A low-overhead design for Usenet</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(196).pdf" style="text-decoration:none;">Hierarchical Clustering with Hard-batch Triplet Loss for Person Re-identification</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(197).pdf" style="text-decoration:none;">Making Linux Protection Mechanisms Egalitarian with UserFS</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(197).pdf" style="text-decoration:none;">AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-identification</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(198).pdf" style="text-decoration:none;">Veil: Private Browsing Semantics Without
-Browser-side Assistance</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(198).pdf" style="text-decoration:none;">Densely Semantically Aligned Person Re-Identification</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(199).pdf" style="text-decoration:none;">VerSum: Verifiable Computations over Large Public Logs</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(199).pdf" style="text-decoration:none;">Multi-Granularity Reference-Aided Attentive Feature Aggregation for Video-based Person Re-identification</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(200).pdf" style="text-decoration:none;">Security bugs in embedded interpreters</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(200).pdf" style="text-decoration:none;">Multi-shot Pedestrian Re-identification via Sequential Decision Making</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(201).pdf" style="text-decoration:none;">Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(201).pdf" style="text-decoration:none;">Relation-Aware Global Attention for Person Re-identification</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(202).pdf" style="text-decoration:none;">Vuvuzela: a scalable private messaging system</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(202).pdf" style="text-decoration:none;">Self-Training With Progressive Augmentation for Unsupervised Cross-Domain Person Re-Identification</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(203).pdf" style="text-decoration:none;">Vx32: Lightweight User-level Sandboxing on the x86</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(203).pdf" style="text-decoration:none;">Attribute-Driven Feature Disentangling and Temporal Aggregation for Video Person Re-Identification</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(204).pdf" style="text-decoration:none;">VXA: A Virtual Architecture for Durable Compressed Archives</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(205).pdf" style="text-decoration:none;">Programming Languages: A Brief Review</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(206).pdf" style="text-decoration:none;">A World Wide Web Without Walls</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(207).pdf" style="text-decoration:none;">Intrusion Recovery for Database-backed Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(204).pdf" style="text-decoration:none;">Deeply-Learned Part-Aligned Representations for Person Re-Identification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(205).pdf" style="text-decoration:none;">Spindle Net: Person Re-identification with Human Body Region Guided Feature Decomposition and Fusion</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(206).pdf" style="text-decoration:none;">Joint Discriminative and Generative Learning for Person Re-identification</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(207).pdf" style="text-decoration:none;">Learning View-Invariant Features for Person Identification in Temporally Synchronized Videos Taken by Wearable Cameras</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(208).pdf" style="text-decoration:none;">Understanding Programming Languages</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(208).pdf" style="text-decoration:none;">Person Re-identification in the Wild</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(209).pdf" style="text-decoration:none;">Dos and Don'ts of Client Authentication on the Web</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(210).pdf" style="text-decoration:none;">Whanau: A Sybil-Proof Distributed Hash Table</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(209).pdf" style="text-decoration:none;">Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(210).pdf" style="text-decoration:none;">Re-Identification with Consistent Attentive Siamese Networks</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(211).pdf" style="text-decoration:none;">Efficient File Distribution in a Flexible, Wide-area File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(211).pdf" style="text-decoration:none;">Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(212).pdf" style="text-decoration:none;">Securing Wide-area Storage in WheelFS</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(213).pdf" style="text-decoration:none;">Building reliable mobile-aware applications using the Rover toolkit</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(212).pdf" style="text-decoration:none;">Camera Style Adaptation for Person Re-identification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(213).pdf" style="text-decoration:none;">Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(214).pdf" style="text-decoration:none;">A Differential Approach to Undefined Behavior Detection</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(215).pdf" style="text-decoration:none;">A Comparison of Designs for
-Extensible and Extension-Oriented Compilers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(214).pdf" style="text-decoration:none;">Re-ranking Person Re-identification with k-reciprocal Encoding</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(215).pdf" style="text-decoration:none;">Robust Partial Matching for Person Search in the Wild</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(216).pdf" style="text-decoration:none;">Xoc, an Extension-Oriented Compiler for Systems Programming</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(217).pdf" style="text-decoration:none;">Improving Web Site Security with Data Flow
-Management</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(216).pdf" style="text-decoration:none;">Discriminative Feature Learning with Consistent Attention Regularization for Person Re-identification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(217).pdf" style="text-decoration:none;">Easy Identification from Better Constraints: Multi-Shot Person Re-Identification from Reference Constraints</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(218).pdf" style="text-decoration:none;">Yodel: Strong Metadata Security for Voice Calls</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(219).pdf" style="text-decoration:none;">Compiling Gallina to Go for the FSCQ File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(220).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table with
-LRU Eviction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(218).pdf" style="text-decoration:none;">Efficient Online Local Metric Adaptation via Negative Samples for Person Re-Identification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(219).pdf" style="text-decoration:none;">Omni-Scale Feature Learning for Person Re-Identification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(220).pdf" style="text-decoration:none;">Online Joint Multi-Metric Adaptation from Frequent Sharing-Subset Mining for Person Re-Identification</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(221).pdf" style="text-decoration:none;">Quantum Computer
-Programming</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(222).pdf" style="text-decoration:none;">A Mathematical Theory of Communication</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(221).pdf" style="text-decoration:none;">Point to Set Similarity Based Deep Feature Learning for Person Re-identification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(222).pdf" style="text-decoration:none;">See the Forest for the Trees: Joint Spatial and Temporal Recurrent Neural Networks for Video-based Person Re-identification</a></li> 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(223).pdf" style="text-decoration:none;">Text Guided Person Image Synthesis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(224).pdf" style="text-decoration:none;">Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(225).pdf" style="text-decoration:none;">Progressive Pose Attention Transfer for Person Image Generation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Person-Reidentification-Papers/blob/master/r(226).pdf" style="text-decoration:none;">Generalizing A Person Retrieval Model Hetero- and Homogeneously</a></li> 
+  
+  
+  
+  
+  
+  
  
  </ul>
 
